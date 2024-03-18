@@ -1,0 +1,42 @@
+{
+  "name": "project-x1-public",
+  "description": "project-x1-public",
+  "version": "3.0.9",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/haiban99200/",
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4",
+    "project-x-tea": "^0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haiban99200/project-x1-public.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "public",
+    "x1",
+    "project",
+    "oss",
+    "testnet",
+    "package"
+  ],
+  "author": "haiban99200",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
